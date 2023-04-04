@@ -10,7 +10,7 @@ Repositorio del Proyecto Challenge ONE Back End  Java Sprint 01 en el Alura Chal
 
 ## Video de Funcionamiento
 
-[![Alt text](https://i.ibb.co/bbzjMqg/conversor-temperatura.jpg)](https://www.youtube.com/watch?v=**Bvl4-2Ya3QY**)
+[![Alt text](https://i.ibb.co/bbzjMqg/conversor-temperatura.jpg)](https://www.youtube.com/watch?v=Bvl4-2Ya3QY)
 
 ## Desarrollo
 
